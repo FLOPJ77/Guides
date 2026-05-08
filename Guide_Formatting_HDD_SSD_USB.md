@@ -1,4 +1,4 @@
-# Guide-Formatting-HDD-SSD
+# Guide_Formatting_HDD_SSD_USB
 Basic commands for Linux machines to format Disks
 
 <br>
