@@ -55,9 +55,17 @@ If umount dosen't work try this
 sudo umount -l /dev/sdX
 ```
 
-Then format it
+Format it
 
 
 ```bash
 sudo mkfs.vfat -F 32 /dev/sdX
 ```
+
+Put the iso on the USB drive
+
+
+```bash
+sudo dd if=/home/jean/Downloads/debian-13.4.0-amd64-netinst.iso of=/dev/sda bs=4M status=progress oflag=sync
+```
+
