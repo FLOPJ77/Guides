@@ -91,7 +91,7 @@ virsh console <vm-name> --force
 <br>
 
 Increase RAM the VM can use
-```bash
+```
 virsh setmaxmem <vm-name> 4G --config
 virsh setmem <vm-name> 4G --config
 ```
