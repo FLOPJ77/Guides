@@ -2,10 +2,15 @@
 
 These guides are a mix of my experience in Linux systems administration — simple references to help pick up a task after some time away. Hope they help others too!
 
-## List:
+### List:
 - [Guide Formatting HDD SSD USB](Formatting_HDD_SSD_USB.md)
 - [KVM basic commands](kvm_basic_commands.md)
 - [PCS basic commands](pcs_basic_commands.md)
+
+
+### Notes:
+
+The "Quick List" inside the Guides are most used commands that i need quick without explaination.
 
 
 <br>
