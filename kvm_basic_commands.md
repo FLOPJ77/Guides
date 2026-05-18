@@ -1,5 +1,24 @@
-
 # KVM basic guide
+
+Quick List:
+- virsh list --all
+- virsh dominfo <vm-name>
+- virsh list --autostart
+- virsh start <vm-name>
+- virsh shutdown <vm-name>
+- virsh reboot <vm-name>
+- virsh destroy <vm-name>
+- virsh reset <vm-name>
+- virsh edit <vm-name>
+- virsh console <vm-name> --force
+
+
+
+
+
+
+
+<br>
 
 List all VMs
 ```
