@@ -1,21 +1,14 @@
 # PCS Commands
 This guide covers the clusters management using Pacemaker and Corosync (PCS).
 
-### List:
+### Quick List:
 
+- pcs cluster start
+- pcs cluster stop
 - pcs status --full
 - pcs status resources
 - pcs constraint show
-- pcs cluster standby [NODE_NAME]
-- pcs cluster unstandby [NODE_NAME]
-- pcs resource move [RESOURCE_NAME] [TARGET_NODE]
-- pcs resource clear [RESOURCE_NAME]
-- pcs resource cleanup [RESOURCE_NAME]
-- pcs cluster start
-- pcs cluster stop
 - pcs cluster start --all
-
-
 
 
 
