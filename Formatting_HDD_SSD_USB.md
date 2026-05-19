@@ -69,3 +69,10 @@ Put the iso on the USB drive
 sudo dd if=/home/jean/Downloads/debian-13.4.0-amd64-netinst.iso of=/dev/sda bs=4M status=progress oflag=sync
 ```
 
+Eject the disk
+
+
+```bash
+sudo eject /dev/sdX
+```
+
