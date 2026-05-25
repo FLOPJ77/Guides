@@ -6,7 +6,7 @@ These guides are a mix of my experience in Linux systems administration — simp
 - [Guide Formatting HDD SSD USB](Formatting_HDD_SSD_USB.md)
 - [KVM basic commands](kvm_basic_commands.md)
 - [PCS basic commands](pcs_basic_commands.md)
-
+- [VI basic commands](vi_basic_commands.md)
 
 ### Notes:
 
