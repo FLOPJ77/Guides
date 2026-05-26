@@ -7,6 +7,7 @@ These guides are a mix of my experience in Linux systems administration — simp
 - [KVM basic commands](kvm_basic_commands.md)
 - [PCS basic commands](pcs_basic_commands.md)
 - [VI basic commands](vi_basic_commands.md)
+- [AI Local Models](ai_local_models.md) 
 
 ### Notes:
 
@@ -15,4 +16,4 @@ The "Quick List" inside the Guides are most used commands that i need quick with
 
 <br>
 
-![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-9B35D4?style=for-the-badge&logo=gnubash&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-ff2954?style=for-the-badge&logo=debian&logoColor=white) ![💾](https://img.shields.io/badge/💾DISKS-4F7BFF?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FF6B9D?style=for-the-badge&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-9B35D4?style=for-the-badge&logo=gnubash&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-ff2954?style=for-the-badge&logo=debian&logoColor=white) ![💾](https://img.shields.io/badge/💾DISKS-4F7BFF?style=for-the-badge) [![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)](https://ollama.com)
