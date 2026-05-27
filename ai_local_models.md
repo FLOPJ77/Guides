@@ -4,7 +4,7 @@ I use Ollama to install local ai models because for me it is the quickest way to
 
 <br>
 
-- download ollama on [ollama](https://www.ollama.com) or via terminal (Linux):
+- download ollama on [ollama.com](https://www.ollama.com) or via terminal (Linux):
 ```
 sudo apt install curl
 
@@ -55,7 +55,7 @@ This document outlines my personal preferences regarding the tiny AI models I ut
 
 <br>
 
-## Preferences and Rationale
+## Preferences
  
 - granite4.1 Series: Absolute fastes models that respond quick and help me problem solving
 
@@ -68,7 +68,7 @@ This document outlines my personal preferences regarding the tiny AI models I ut
 
 ## Benchmark
 
-I have done a quick performance benchmark using **Ollama**. I provided the same prompt to all models to measure generation speed and efficiency.
+I have done a quick performance benchmark using **Ollama**. I provided the same prompt to all models to measure generation speed and efficiency running on CPU.
 
 **Prompt:**
 > *Explain the concept of 'inertia' in two paragraphs.*
@@ -96,13 +96,13 @@ I have done a quick performance benchmark using **Ollama**. I provided the same 
 <img width="964" height="519" alt="R-time" src="https://github.com/user-attachments/assets/c443e001-b407-47c5-93c1-deaa9b9f1f00" />
 
 
-
+<br>
 
 ## Results 
 
 - Non-Reasoning Models are optimized for fast, direct responses and daily terminal tasks.
 
-- Reasoning Models have internal "Thinking" process for complex logic and precision but the trade off is the waiting time
+- Reasoning Models have internal "Thinking" process for complex logic that add precision but with a trade off, the waiting time.
 
 
 
