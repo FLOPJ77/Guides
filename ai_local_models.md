@@ -110,7 +110,9 @@ I have done a quick performance benchmark using **Ollama**. I provided the same 
 
 ## Conclusion
 
-Choosing the right AI local model is crucial for optimizing performance at work and i prefer Granite4.1:3b for most of the tasks i do.
+On a pc with only a x64 CPU is better to run small Non-Reasoning models for faster response time because waiting 5+ minutes just to know a simple information is too long.   
+So at work i prefer Granite4.1:3b for most of the tasks i do, is fast, coincided and coherent.
+On a GPU where we get more than 20 token per seconds, reasoning models like qwen can shine.
 
 
 
