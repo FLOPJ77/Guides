@@ -8,6 +8,8 @@ These guides are a mix of my experience in Linux systems administration — simp
 - [PCS basic commands](pcs_basic_commands.md)
 - [VI basic commands](vi_basic_commands.md)
 - [AI Local Models](ai_local_models.md) 
+- [Tips and Tricks](tips_and_tricks.md) 
+
 
 ### Notes:
 
