@@ -46,12 +46,13 @@ This document outlines my personal preferences regarding the tiny AI models I ut
 | Name                  | Size  | Notes |
 |----------------------|-------|-------|
 | granite4.1:3b         | 2.1 GB | Fastest response time with very accurate and grounded responces |
-| granite4.1:8b         | 5.3 GB | Big model when i have to make something that the 3b model cant handle |
-| qwen3.5:4b            | 3.4 GB | Best for hard, long, and precise tasks |
+| granite4.1:8b         | 5.3 GB | Bigger model when i have to make something that the 3b model cant handle |
 | qwen3.5:2b            | 2.7 GB | Light reasoning for precise tasks when i have time |
-| gemma4:e2b            | 7.2 GB | Good when tasks vary a lot during a chat | 
-| gemma3:4b             | 3.3 GB | I have been using gemma3 until granite4.1 came out |
-| ministral-3:3b        | 3.0 GB | ? idk maybe i was testing it|
+| qwen3.5:4b            | 3.4 GB | Best for precise tasks and basic coding |
+| qwen3.5:9b            | 6.6 GB | Larger qwen that can actually start do some light coding |
+| gemma4:e2b            | 7.2 GB | Good when tasks vary a bit during a chat | 
+| gemma3:4b             | 3.3 GB | Solid general model |
+| ministral-3:3b        | 3.0 GB | Fun model to play around |
 
 <br>
 
@@ -59,7 +60,7 @@ This document outlines my personal preferences regarding the tiny AI models I ut
  
 - granite4.1 Series: Absolute fastes models that respond quick and help me problem solving
 
-- qwen3.5 Series: Those are the best to help me coding and making stuff
+- qwen3.5 Series: Those are the best to help me light and basic "coding" and making stuff
 
 
 <br>
