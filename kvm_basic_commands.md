@@ -4,18 +4,36 @@ This guide provide basic KVM commands.
 
 
 ### Quick List:
-
-- virsh start <vm-name>
-- virsh shutdown <vm-name>
-- virsh reboot <vm-name>
-- virsh destroy <vm-name>
-- virsh reset <vm-name>
-- virsh console <vm-name> --force
-- virsh list --all
-- virsh dominfo <vm-name>
-- virsh list --autostart
-- virsh edit <vm-name>
-
+```bash
+virsh start <vm-name>
+```
+```bash
+virsh shutdown <vm-name>
+```
+```bash
+virsh reboot <vm-name>
+```
+```bash
+virsh destroy <vm-name>
+```
+```bash
+virsh reset <vm-name>
+```
+```bash
+virsh console <vm-name> --force
+```
+```bash
+virsh list --all
+```
+```bash
+virsh dominfo <vm-name>
+```
+```bash
+virsh list --autostart
+```
+```bash
+virsh edit <vm-name>
+```
 
 
 
