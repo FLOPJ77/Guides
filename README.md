@@ -9,8 +9,10 @@ These guides are a mix of my experience in Linux systems administration — simp
 - [VI basic commands](vi_basic_commands.md)
 - [AI Local Models](ai_local_models.md) 
 - [Tips and Tricks](tips_and_tricks.md)
+- [Ethernet_cables](ethernet_cables.md)
 - [NMAP commands](nmap_commands.md)
 - [SCP commands](scp_commands.md)
+- [SSH commands](ssh_commands.md)
 - [USB cables](usb_cables.md) 
 
 ### Notes:
