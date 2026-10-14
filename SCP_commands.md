@@ -1,5 +1,5 @@
 
-# SCP Cheat Sheet
+# SCP Commands
 
 A quick reference for copying files and directories over SSH.
 
