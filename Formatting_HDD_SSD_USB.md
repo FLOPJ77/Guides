@@ -76,3 +76,9 @@ Eject the disk
 sudo eject /dev/sdX
 ```
 
+Recovery no partition device:
+
+```bash
+sudo parted -s /dev/sda mklabel msdos
+sudo parted -s /dev/sda mkpart primary ntfs 1MiB 100%
+```
