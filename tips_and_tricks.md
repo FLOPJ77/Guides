@@ -1,5 +1,13 @@
 # Tips and Tricks
 
+### Checking Logs
+
+```bash
+sudo tail -f /var/log/syslog | grep <name or ip>
+```
+
+
+
 ### tree
 
 Install it:
