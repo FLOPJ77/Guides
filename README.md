@@ -13,6 +13,7 @@ These guides are a mix of my experience in Linux systems administration — simp
 - [NMAP commands](nmap_commands.md)
 - [SCP commands](scp_commands.md)
 - [SSH commands](ssh_commands.md)
+- [Screen commands](screen_commands.md)
 - [USB cables](usb_cables.md) 
 
 ### Notes:
